@@ -1,5 +1,4 @@
 /* Apola Islam
- * 501237079
  * Class that simulates a user of a simple Uber app
  * 
  * Everything has been done for you except equals() method

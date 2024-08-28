@@ -1,6 +1,5 @@
 
 // Apola Islam
-// 501237079
 // Simulation of a Simple Command-line based Uber App 
 
 // This system supports "ride sharing" service and a delivery service

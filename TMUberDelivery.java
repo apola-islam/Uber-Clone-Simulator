@@ -1,5 +1,4 @@
 /* Apola Islam
- * 501237079
  * This class simulates a food delivery service for a simple Uber app
  * 
  * A TMUberDelivery is-a TMUberService with some extra functionality

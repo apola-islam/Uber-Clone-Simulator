@@ -1,5 +1,4 @@
 /* Apola Islam
- * 5012317079
  * General class that simulates a ride or a delivery in a simple Uber app
  * 
  * This class is made abstract since we never create an object. We only create subclass objects. 

@@ -1,5 +1,4 @@
 /* Apola Islam
- * 501237079
  * This class simulates a car driver in a simple uber app 
  * 
  * Everything has been done for you except the equals() method

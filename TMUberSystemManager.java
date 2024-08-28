@@ -1,5 +1,4 @@
 /* Apola Islam
- * 501237079
  * This class contains the main logic of the system.
  * 
  *  It keeps track of all users, drivers and service requests (RIDE or DELIVERY)

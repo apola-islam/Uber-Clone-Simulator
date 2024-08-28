@@ -1,7 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
 // Apola Islam
-// 501237079
 // The city consists of a grid of 9 X 9 City Blocks
 
 // Streets are east-west (1st street to 9th street)
