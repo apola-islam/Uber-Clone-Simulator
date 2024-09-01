@@ -58,19 +58,3 @@ Compile on a command line using 'javac TMUberUI.java' and then 'java TMUberUI'
 ### Prerequisites
 - Java JDK 11 or higher
 
-
-
-## Usage
-1. **Create a New User:**
-    ```java
-    User user = new User("user123", "John Doe", "123 Elm Street", 50.0);
-    ```
-2. **Add a Driver:**
-    ```java
-    Driver driver = new Driver("driver123", "Jane Smith", "Toyota Corolla", "XYZ 123", "456 Maple Avenue");
-    ```
-3. **Make a Delivery Request:**
-    ```java
-    TMUberDelivery delivery = new TMUberDelivery("123 Elm Street", "456 Maple Avenue", user, 5, 15.0, "Pizza Place", "order456");
-    ```
-
