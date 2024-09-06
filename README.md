@@ -53,6 +53,19 @@ Defines the `User` class, which represents a user of the service. It includes at
 ### `Driver.java`
 Defines the `Driver` class, which represents a driver. It includes attributes for driver ID, name, car model, car license, and address.
 
+### `CityMap.java` 
+Represents a 9x9 grid city layout, with:
+Streets (east-west) numbered from 1st to 9th.
+Avenues (north-south) numbered from 1st to 9th.
+It provides methods to handle addresses, calculate distances, and determine zones within the city.
+
+### `TMUberUI.java`
+
+The class allows for users to enter in commands, which it processes according to the defined actions and functions. 
+
+### `TMUberSystemManager.java`
+The main logic controller for the simulator. It manages the registration of users and drivers, handles ride and delivery service requests, and tracks their completion. The class includes methods for adding new users and drivers, requesting and canceling services, managing driver assignments, and calculating revenue from completed rides and deliveries. It also provides functionality for sorting and listing users, as well as updating driver locations. Custom exceptions are used throughout to handle errors.
+
 ## Installation
 Compile on a command line using 'javac TMUberUI.java' and then 'java TMUberUI'
 ### Prerequisites
