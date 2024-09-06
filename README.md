@@ -2,7 +2,7 @@
 
 This was a course assignment that simulates Uber's core functionality; managing users, drivers, and service requests.
 
-## Actions (On Command Line)
+## Some Actions (On Command Line)
 
 LOADUSERS: loads in pre-existing users from users.txt.
 
@@ -24,11 +24,11 @@ REQUESTS: prints all existing requests.
 
 CANCELREQ: cancels a request using request #.
 
-DROPOFF:
+DROPOFF: completes a request using request #.
 
-PICKUP:
+PICKUP: changes drivers location to pickup location.
 
-DRIVETO:
+DRIVETO: changes drivers location to specified address.
 
 ## Files
 
